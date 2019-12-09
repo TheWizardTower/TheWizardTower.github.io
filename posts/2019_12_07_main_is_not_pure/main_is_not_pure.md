@@ -6,7 +6,8 @@ At first glance, this seems only true in some specific examples. Say:
 
 ```haskell 
 main :: IO Int
-main = return $ 4 + 5 -- No IO is actually done, even though we are in the IO Monad.
+main = return $ 4 + 5 -- No IO is actually done,
+                      -- even though we are in the IO Monad.
 ```
 
 The above example is essentially `/usr/bin/true`, the only effect it has is changing the status variable (`$?` in bash-likes, `$status` in fish) to 0, overwriting the previous value.
