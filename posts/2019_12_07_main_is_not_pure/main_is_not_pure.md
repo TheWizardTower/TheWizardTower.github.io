@@ -97,8 +97,8 @@ myLongFunc = do
   -- roll 1d10
   num <- randomRIO (1, 10) :: IO Integer
   case num of
-    10        -> threadDelay (2  * 10 ^ 6)    -- sometimes the DB answers really fast!
-    otherwise -> threadDelay (10 * 10 ^ 6)  -- ...but mostly not so much.
+    10        -> threadDelay (2  * 10 ^ 6) -- sometimes the DB answers quickly!
+    otherwise -> threadDelay (10 * 10 ^ 6) -- ...but mostly not so much.
   return 100
 
 myActualAction :: Int -> IO ()
