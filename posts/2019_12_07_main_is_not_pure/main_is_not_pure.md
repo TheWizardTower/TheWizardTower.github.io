@@ -40,7 +40,7 @@ throw myError;
 
 C++ works in a similar way.
 
-```C++
+```cpp
 #include <iostream>
 #include <exception>
 
@@ -134,7 +134,7 @@ However, there is a tremendously useful distinction to be made in pointing out t
 Monkey-wrench time. Consider the following snippets.
 
 
-```C++
+```cpp
 #include <chrono>
 #include <iostream>
 #include <random>
