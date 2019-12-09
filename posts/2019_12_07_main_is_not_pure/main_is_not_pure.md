@@ -1,3 +1,5 @@
+Many thanks to [Michael Snoyman](http://snoyman.com) for both helping to inspire, and then providing comments and feedback. Any remaining defects are my responsibility!
+
 One of Haskell's defining feature is the fact that it tracks effects in its type system. As such, much ado is made around "pure functions" -- functions that do no I/O -- and functions that do perform I/O. However, if you stick around long enough, you'll hear something quite curious -- people will describe `main` as a pure function.
 
 At first glance, this seems only true in some specific examples. Say:
