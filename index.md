@@ -3,6 +3,7 @@
 Hello! Welcome to my stray thoughts.
 
 ## Posts
+[2019-12-10 Ham Radio](posts/2019_12_10_ham_radio/ham_radio.md)
 [2019-12-07 Main is not Pure](posts/2019_12_07_main_is_not_pure/main_is_not_pure.md)
 
 
