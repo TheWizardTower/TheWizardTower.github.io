@@ -69,7 +69,7 @@ However, despite all of the above, I think that compilers are a source of comple
 
 Consider the following Perl code.
 
-```Perl
+```perl
 sub main() {
     print("Step one");
     # This throws a warning and stops execution
