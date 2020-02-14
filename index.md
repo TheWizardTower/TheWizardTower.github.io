@@ -3,6 +3,8 @@
 Hello! Welcome to my stray thoughts.
 
 ## Posts
+[2020-02-13 The Value of a Type](posts/2020_02_13_the_value_of_a_type/the_value_of_a_type.md)
+
 [2020-01-27 Problematic Pulp](posts/2020_01_27_problematic_pulp/problematic_pulp.md)
 
 [2019-12-10 Ham Radio](posts/2019_12_10_ham_radio/ham_radio.md)
