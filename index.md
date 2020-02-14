@@ -17,9 +17,11 @@ Need a Functional Programmer? I'm available!
 
 [LinkedIn](http://linkedin.com/in/adammccullough)
 
-[LambdaConf 2017 Talk -- Greek Classics: Lambda Calculus For Beginners](https://www.youtube.com/watch?v=-DPlj75YJR4)
+LambdaConf 2017 Talk -- Greek Classics: Lambda Calculus For Beginners [talk](https://www.youtube.com/watch?v=-DPlj75YJR4), [slides](https://docs.google.com/presentation/d/17u9d2FCachWEkqfs5WHND12KfdiYJJA48yGzMmwnbo0/edit)
 
-[LambdaConf 2018 Talk -- Monad Transformers for the Easily Confused](https://www.youtube.com/watch?v=SMj-n2f7wYY)
+[LambdaConf 2018 Talk -- Monad Transformers for the Easily Confused [talk](https://www.youtube.com/watch?v=SMj-n2f7wYY), [slides](https://github.com/TheWizardTower/monadTransformers)
+
+LambdaConf 2019 Talk -- Rust's Borrow Cheker Proven Correct (The video isn't published yet, but the slides are [here!](https://github.com/TheWizardTower/rust_borrow_checker_talk))
 
 [Resume](ResumeMcCullough_2019_12_08_github.pdf)
 
