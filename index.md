@@ -21,7 +21,7 @@ LambdaConf 2017 Talk -- Greek Classics: Lambda Calculus For Beginners [talk](htt
 
 [LambdaConf 2018 Talk -- Monad Transformers for the Easily Confused [talk](https://www.youtube.com/watch?v=SMj-n2f7wYY), [slides](https://github.com/TheWizardTower/monadTransformers)
 
-LambdaConf 2019 Talk -- Rust's Borrow Cheker Proven Correct (The video isn't published yet, but the slides are [here!](https://github.com/TheWizardTower/rust_borrow_checker_talk))
+LambdaConf 2019 Talk -- Rust's Borrow Cheker Proven Correct [talk](https://www.youtube.com/watch?v=XJMF0PlLELc), [slides](https://github.com/TheWizardTower/rust_borrow_checker_talk)
 
 [Resume](ResumeMcCullough_2020_07_17_github.pdf)
 
