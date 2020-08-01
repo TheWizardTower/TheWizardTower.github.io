@@ -23,7 +23,7 @@ LambdaConf 2017 Talk -- Greek Classics: Lambda Calculus For Beginners [talk](htt
 
 LambdaConf 2019 Talk -- Rust's Borrow Cheker Proven Correct (The video isn't published yet, but the slides are [here!](https://github.com/TheWizardTower/rust_borrow_checker_talk))
 
-[Resume](ResumeMcCullough_2019_12_08_github.pdf)
+[Resume](ResumeMcCullough_2020_07_17_github.pdf)
 
 
 ## Support!
