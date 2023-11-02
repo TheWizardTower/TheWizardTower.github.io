@@ -3,6 +3,8 @@
 Hello! Welcome to my stray thoughts.
 
 ## Posts
+[2023-11-02 Misadventures with Gentoo](posts/2023_11_01_home_server_adventures/home_server_adventures.md)
+
 [2020-02-13 The Value of a Type](posts/2020_02_13_the_value_of_a_type/the_value_of_a_type.md)
 
 [2020-01-27 Problematic Pulp](posts/2020_01_27_problematic_pulp/problematic_pulp.md)
