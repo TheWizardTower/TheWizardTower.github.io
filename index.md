@@ -11,7 +11,6 @@ Hello! Welcome to my stray thoughts.
 
 [2019-12-07 Main is not Pure](posts/2019_12_07_main_is_not_pure/main_is_not_pure.md)
 
-
 ## About Me
 Need a Functional Programmer? I'm available!
 
@@ -23,8 +22,7 @@ LambdaConf 2017 Talk -- Greek Classics: Lambda Calculus For Beginners [talk](htt
 
 LambdaConf 2019 Talk -- Rust's Borrow Cheker Proven Correct [talk](https://www.youtube.com/watch?v=XJMF0PlLELc), [slides](https://github.com/TheWizardTower/rust_borrow_checker_talk)
 
-[Resume](ResumeMcCullough_2020_07_17_github.pdf)
-
+[Resume](ResumeMcCullough_2023_10_15_github.pdf)
 
 ## Support!
 
